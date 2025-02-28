@@ -1,4 +1,4 @@
 variable "bucket" {
-    default = "myterraformprojectbucket2025"
+    default = "myterraformprojectbucket2025-1"
   
 }
